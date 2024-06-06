@@ -62,3 +62,45 @@ After some time (typically 10-15 seconds depending on file size), the advisor wi
 
 <img width="100%" alt="Screenshot 2024-06-06 at 6 42 25 PM" src="https://github.com/simoncwang/ArtAdvisor/assets/120291065/0566f999-7ed6-40a0-bbda-014f46da4bce">
 
+# Example
+
+As an example, I have uploaded an image of the famous Mona Lisa painting by Leonardo da Vinci to see what the art advisor has to say!
+
+<img width="100%" alt="Screenshot 2024-06-06 at 6 43 37 PM" src="https://github.com/simoncwang/ArtAdvisor/assets/120291065/bc781c0b-3913-4f7e-919e-bb9a8dfc514f">
+
+## Full feedback text
+
+<blockquote>
+This artwork is widely recognized as the "Mona Lisa," an iconic painting by Leonardo da Vinci. Here is some constructive feedback on this masterpiece:
+
+### Positive Feedback:
+
+1. **Use of Light and Shadow (Chiaroscuro):**
+   - The subtle gradation of light and shadow creates a lifelike three-dimensionality and a tender, almost ethereal quality. This technique brings forward the subject with a delicate realism.
+
+2. **Composition:**
+   - The composition is perfectly balanced with the subject placed using the rule of thirds. The way the figure is framed against the background adds depth and guides the viewer's eye seamlessly through the painting.
+
+3. **Expressive Face and Emotion:**
+   - The enigmatic expression of the subject, often described as an ambiguous smile, invites a range of interpretations and emotions, making the artwork profoundly engaging and mysterious.
+
+4. **Detail and Texture:**
+   - The intricate detailing on the subject's hair, clothing, and the subtle textures of the skin showcase exceptional skill and attention to detail.
+
+### Constructive Criticism:
+
+1. **Varnish Yellowing:**
+   - Over time, the varnish has yellowed, altering the original colors. Restorative work could potentially address this issue to bring back the painting's initial vibrancy.
+
+2. **Background Detailing:**
+   - While the background features beautifully misty landscapes, some critics might argue for a slightly more detailed rendering of elements to match the meticulous detail in the foreground subject.
+
+3. **Posture and Hand Position:**
+   - The posture and hand position of the subject are serene but could be viewed as somewhat stiff. Exploring slightly more relaxed or dynamic poses could add an additional layer of naturalism.
+
+4. **Cohesion Between Foreground and Background:**
+   - There is a slight stylistic difference between the hyper-realistic figure and the more abstract, sfumato background. A more cohesive blending of these elements could enhance the overall unity of the painting.
+
+Overall, the "Mona Lisa" remains a timeless piece of art that continues to captivate viewers and artists alike. The feedback offered is in the context of taking an already renowned piece and discussing areas that provoke thought rather than suggesting fundamental changes to what many consider perfection.
+
+</blockquote>

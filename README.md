@@ -2,11 +2,11 @@
 
 ## Environment setup
 
-First, clone this repository to your local machine:
+First, **clone this repository** to your local machine:
 
     git clone https://github.com/simoncwang/AIArtAdvisor.git
 
-Then, create a Python environment
+Then, **create a Python environment**
 
 Conda:
 
@@ -16,7 +16,7 @@ Python:
 
     python -m venv advisor-env
 
-activate it with
+**activate the environment** with
 
 Conda:
 
@@ -29,7 +29,7 @@ Python:
 
 ## Launching the app
 
-To demonstrate the functionality of the art advisor, a simple app has been created using Gradio. To launch it, simply run:
+To demonstrate the functionality of the art advisor, a **simple Gradio app** has been created. To launch it, simply run:
 
         python art_advisor.py
 

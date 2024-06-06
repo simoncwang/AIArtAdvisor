@@ -20,7 +20,7 @@ activate it with
 
 Conda:
 
-    conda activate advisor env
+    conda activate advisor-env
 
 Python:
 

@@ -4,7 +4,7 @@
 
 First, clone this repository to your local machine:
 
-    git clone https://github.com/simoncwang/ArtAdvisor.git
+    git clone https://github.com/simoncwang/AIArtAdvisor.git
 
 Then, create a Python environment
 

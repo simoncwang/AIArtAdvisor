@@ -27,6 +27,10 @@ Python:
     advisor-env\Scripts\activate (windows)
     source advisor-env/bin/activate (Unix or MacOS)
 
+Next, **install the required packages** with:
+
+        pip install -r requirements.txt
+
 ## Launching the app
 
 To demonstrate the functionality of the art advisor, a **simple Gradio app** has been created. To launch it, simply run:
@@ -39,7 +43,7 @@ or
 
 depending on how your environment is set up.
 
-This will create an app running on a local server, which can be found by the url provided in the terminal or command line (e.g. http://127.0.0.1:XXXX).
+This will create an app running on a local server, which can be found by the url provided in the terminal or command line (e.g. http://127.0.0.1:XXXX). Open this in any browser to see the app!
 
 ## Usage
 

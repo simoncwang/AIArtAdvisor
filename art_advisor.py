@@ -12,7 +12,6 @@ def critic(your_image, openai_api_key):
     image.save('images/image.png')
 
     # OpenAI API Key
-    # api_key = "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"
 
     # Function to encode the image
     def encode_image(image_path):
